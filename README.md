@@ -27,19 +27,19 @@ An end-to-end portfolio project using the [Brazilian E-Commerce Public Dataset b
 ## Dashboard Gallery
 
 ### Performance Overview
-![Performance Overview](screenshots/01_performance_overview.png)
+![Performance Overview](01_performance_overview.png)
 
 ### Sales Performance & Growth — VISUALS ON
-![Sales Performance & Growth](screenshots/02_sales_performance.png)
+![Sales Performance & Growth](02_sales_performance.png)
 
 ### Sales Performance & Growth — DETAILS ON
-![Category Details](screenshots/03_category_details.png)
+![Category Details](03_category_details.png)
 
 ### Seller Performance
-![Seller Performance](screenshots/04_seller_performance.png)
+![Seller Performance](04_seller_performance.png)
 
 ### Power BI Semantic Model
-![Data Model](screenshots/05_data_model.png)
+![Data Model](05_data_model.png)
 
 > The screenshots supplied during development show growth KPI values that still require validation against comparable prior-year date windows. Do not interpret those displayed YoY values as verified findings until the Power BI measures and images are refreshed.
 
